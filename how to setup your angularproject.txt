@@ -1,0 +1,3 @@
+download Node.js
+download VSstudio code 
+Git,Github
